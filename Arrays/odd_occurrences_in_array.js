@@ -13,4 +13,4 @@ function odd_occurrences_in_array(A) {
   return _array[length-1];
 }
 
-console.log(odd_occurrences_in_array([9,3,9,3,9,7,9])); // Log out answer
+// console.log(odd_occurrences_in_array([9,3,9,3,9,7,9])); // Log out answer
